@@ -5,5 +5,5 @@
 locations.
 2. Add to db
 3. Map locations from db
-[1](https://www.bizzabo.com/blog/technology-events)
 
+[1](https://www.bizzabo.com/blog/technology-events)
